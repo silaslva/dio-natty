@@ -3,7 +3,7 @@
 ## 📒 Descrição
 Esse projeto foi mais pensado para ser uma reflexão do que necessáriamente algo visual, com uma imagem ele nos faz refletir sobre a realidade
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 Tecnologia Utilizada
 [Leonardo AI](https://app.leonardo.ai/)
 
 ## 🧐 Processo de Criação
@@ -11,10 +11,10 @@ Foi utilizado o seguinte prompt "Beautiful hawaiian girl, blonde, brown eyes, in
 
 ## 🚀 Resultados
 <p align="center">
-    <img width="100" src="./img/imagem.png">
+    <img src="./img/imagem.png">
 </p>
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Qual é o ponto que não saberemos mais que o que vemos é real? 🤔
 
 Lembro do filme "A Origem" do Leonardo DiCaprio 🎬, em que a todo momento eles saíam de uma camada de um sonho para outra e, nesse meio tempo, se perdiam onde realmente estavam e acreditavam simplesmente que tudo que estavam vendo era real. Tenho esse mesmo sentimento com as AI's 🤖
